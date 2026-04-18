@@ -1,35 +1,5 @@
-# 正则表达式应用(以物流收货地址为例) / Chinese Receiver Info Parser
+# 正则表达式应用(以物流收货地址为例) 
 
-&lt;p align="center"&gt;
-  &lt;b&gt;轻量级 | 零依赖 | 高精度&lt;/b&gt;&lt;br&gt;
-  &lt;i&gt;从非结构化中文文本中智能提取收件人姓名、手机号与四级结构化地址&lt;/i&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python 3.6+"&gt;
-  &lt;img src="https://img.shields.io/badge/dependencies-zero-brightgreen.svg" alt="Zero Dependencies"&gt;
-  &lt;img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"&gt;
-&lt;/p&gt;
-
----
-
-## 📑 目录
-
-- [功能特性](#功能特性)
-- [快速开始](#快速开始)
-- [安装与使用](#安装与使用)
-- [API 文档](#api-文档)
-- [正则表达式原理详解](#正则表达式原理详解)
-- [实现原理](#实现原理)
-- [测试用例](#测试用例)
-- [已知局限](#已知局限)
-- [性能基准](#性能基准)
-- [常见问题](#常见问题)
-- [更新日志](#更新日志)
-- [贡献指南](#贡献指南)
-- [许可证](#许可证)
-
----
 
 ## ✨ 功能特性
 
